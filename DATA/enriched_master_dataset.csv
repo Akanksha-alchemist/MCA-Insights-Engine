@@ -1,0 +1,73 @@
+CIN,COMPANY_NAME,STATE,STATUS,SOURCE,FIELD,SOURCE_URL,NEW_VALUE
+L11223DL2017PTC06,URBAN TECH LABS PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L11223DL2017PTC06,IT Services
+U22334DL2018PLC07,DELHI INFRASTRUCTURE DEVELOPERS LTD,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U22334DL2018PLC07,Finance
+L33445DL2019PTC08,NORTHCITY CONSULTING SERVICES,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L33445DL2019PTC08,Finance
+U44556DL2021PTC09,GREENHOME ELECTRICALS PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U44556DL2021PTC09,Manufacturing
+L55667DL2022PLC10,METRO HEALTHCARE SOLUTIONS LTD,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L55667DL2022PLC10,Retail
+U13579DL2019PTC01,DELHI URBAN INFRA SOLUTIONS PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U13579DL2019PTC01,Logistics
+L24680DL2020PLC02,NEW DELHI GREEN ENERGY LTD,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L24680DL2020PLC02,Retail
+U35791DL2021PTC03,CAPITAL FINTECH SERVICES,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U35791DL2021PTC03,IT Services
+L46802DL2022PLC04,METRO HOSPITALITY GROUP LTD,Delhi,Strike Off,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L46802DL2022PLC04,Real Estate
+U68024DL2024PTC06,NCR DIGITAL INFRASTRUCTURE PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U68024DL2024PTC06,Retail
+L12345GJ2018PTC01,SURAT TEXTILE INNOVATIONS PVT LTD,Gujarat,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L12345GJ2018PTC01,Real Estate
+U23456GJ2019PLC02,VADODARA CHEMICALS LTD,Gujarat,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U23456GJ2019PLC02,Real Estate
+L34567GJ2020PTC03,AHMEDABAD SOLAR SYSTEMS PRIVATE LIMITED,Gujarat,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L34567GJ2020PTC03,Manufacturing
+U45678GJ2021PTC04,KUTCH CERAMIC WORKS,Gujarat,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U45678GJ2021PTC04,Real Estate
+L56789GJ2023PLC05,RAJKOT AUTO PARTS LIMITED,Gujarat,UNKNOWN,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L56789GJ2023PLC05,Retail
+L67891GJ2024PLC06,BHARUCH INDUSTRIAL MACHINERY LTD,Gujarat,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L67891GJ2024PLC06,Real Estate
+L21213KA2017PTC16,BANGALORE AI SYSTEMS PRIVATE LIMITED,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L21213KA2017PTC16,IT Services
+U32324KA2018PLC17,MYSORE AGRO MACHINERY LTD,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U32324KA2018PLC17,Finance
+L43435KA2020PTC18,HUBBALLI DIGITAL SERVICES,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L43435KA2020PTC18,Manufacturing
+U54546KA2021PTC19,UDUPI SEAFOOD EXPORTS,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U54546KA2021PTC19,Manufacturing
+L65657KA2023PLC20,BELGAUM GREEN ENERGY LTD,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L65657KA2023PLC20,IT Services
+L10101KA2018PTC01,BENGALURU SOFTWARE LABS PRIVATE LIMITED,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L10101KA2018PTC01,Logistics
+U20202KA2019PLC02,MYSORE AUTO COMPONENTS LIMITED,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U20202KA2019PLC02,IT Services
+L30303KA2020PTC03,HUBBALLI AGRO INDUSTRIES PRIVATE LIMITED,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L30303KA2020PTC03,Logistics
+U40404KA2021PTC04,BELGAUM LOGISTICS SERVICES,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U40404KA2021PTC04,Retail
+L70707KA2024PLC07,TUMKUR PRECISION ENGINEERING LTD,Karnataka,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L70707KA2024PLC07,Real Estate
+L66778TN2018PTC11,CHENNAI SOFTWARE LABS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L66778TN2018PTC11,Manufacturing
+U77889TN2019PLC12,COIMBATORE TEXTILE MILLS LTD,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U77889TN2019PLC12,Real Estate
+L88990TN2020PTC13,MADURAI FOOD PROCESSORS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L88990TN2020PTC13,Finance
+U99001TN2021PTC14,TIRUPPUR GARMENT EXPORTS,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U99001TN2021PTC14,Real Estate
+L10112TN2023PLC15,KANCHI AUTO ELECTRONICS LTD,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L10112TN2023PLC15,Real Estate
+L11223TN2018PTC01,CHENNAI ELECTRONICS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L11223TN2018PTC01,Retail
+U22334TN2019PLC02,COIMBATORE TEXTILE EXPORTS LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U22334TN2019PLC02,IT Services
+L33445TN2020PTC03,MADURAI FOOD PRODUCTS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L33445TN2020PTC03,Manufacturing
+U44556TN2021PTC04,TIRUPPUR GARMENTS HUB,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/U44556TN2021PTC04,Finance
+L66778TN2024PLC06,HOSUR AUTO SYSTEMS LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Sector,https://www.zaubacorp.com/cin/L66778TN2024PLC06,Real Estate
+L11223DL2017PTC06,URBAN TECH LABS PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L11223DL2017PTC06,Amit Singh
+U22334DL2018PLC07,DELHI INFRASTRUCTURE DEVELOPERS LTD,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U22334DL2018PLC07,Amit Singh
+L33445DL2019PTC08,NORTHCITY CONSULTING SERVICES,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L33445DL2019PTC08,Ravi Sharma
+U44556DL2021PTC09,GREENHOME ELECTRICALS PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U44556DL2021PTC09,Ravi Sharma
+L55667DL2022PLC10,METRO HEALTHCARE SOLUTIONS LTD,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L55667DL2022PLC10,Anjali Desai
+U13579DL2019PTC01,DELHI URBAN INFRA SOLUTIONS PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U13579DL2019PTC01,Anjali Desai
+L24680DL2020PLC02,NEW DELHI GREEN ENERGY LTD,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L24680DL2020PLC02,Priya Kapoor
+U35791DL2021PTC03,CAPITAL FINTECH SERVICES,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U35791DL2021PTC03,Amit Singh
+L46802DL2022PLC04,METRO HOSPITALITY GROUP LTD,Delhi,Strike Off,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L46802DL2022PLC04,Amit Singh
+U68024DL2024PTC06,NCR DIGITAL INFRASTRUCTURE PRIVATE LIMITED,Delhi,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U68024DL2024PTC06,Ravi Sharma
+L12345GJ2018PTC01,SURAT TEXTILE INNOVATIONS PVT LTD,Gujarat,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L12345GJ2018PTC01,Anjali Desai
+U23456GJ2019PLC02,VADODARA CHEMICALS LTD,Gujarat,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U23456GJ2019PLC02,Priya Kapoor
+L34567GJ2020PTC03,AHMEDABAD SOLAR SYSTEMS PRIVATE LIMITED,Gujarat,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L34567GJ2020PTC03,Priya Kapoor
+U45678GJ2021PTC04,KUTCH CERAMIC WORKS,Gujarat,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U45678GJ2021PTC04,Amit Singh
+L56789GJ2023PLC05,RAJKOT AUTO PARTS LIMITED,Gujarat,UNKNOWN,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L56789GJ2023PLC05,Ravi Sharma
+L67891GJ2024PLC06,BHARUCH INDUSTRIAL MACHINERY LTD,Gujarat,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L67891GJ2024PLC06,Priya Kapoor
+L21213KA2017PTC16,BANGALORE AI SYSTEMS PRIVATE LIMITED,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L21213KA2017PTC16,Ravi Sharma
+U32324KA2018PLC17,MYSORE AGRO MACHINERY LTD,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U32324KA2018PLC17,Priya Kapoor
+L43435KA2020PTC18,HUBBALLI DIGITAL SERVICES,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L43435KA2020PTC18,Anjali Desai
+U54546KA2021PTC19,UDUPI SEAFOOD EXPORTS,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U54546KA2021PTC19,Ravi Sharma
+L65657KA2023PLC20,BELGAUM GREEN ENERGY LTD,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L65657KA2023PLC20,Anjali Desai
+L10101KA2018PTC01,BENGALURU SOFTWARE LABS PRIVATE LIMITED,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L10101KA2018PTC01,Amit Singh
+U20202KA2019PLC02,MYSORE AUTO COMPONENTS LIMITED,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U20202KA2019PLC02,Priya Kapoor
+L30303KA2020PTC03,HUBBALLI AGRO INDUSTRIES PRIVATE LIMITED,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L30303KA2020PTC03,Amit Singh
+U40404KA2021PTC04,BELGAUM LOGISTICS SERVICES,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U40404KA2021PTC04,Priya Kapoor
+L70707KA2024PLC07,TUMKUR PRECISION ENGINEERING LTD,Karnataka,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L70707KA2024PLC07,Ravi Sharma
+L66778TN2018PTC11,CHENNAI SOFTWARE LABS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L66778TN2018PTC11,Ravi Sharma
+U77889TN2019PLC12,COIMBATORE TEXTILE MILLS LTD,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U77889TN2019PLC12,Ravi Sharma
+L88990TN2020PTC13,MADURAI FOOD PROCESSORS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L88990TN2020PTC13,Ravi Sharma
+U99001TN2021PTC14,TIRUPPUR GARMENT EXPORTS,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U99001TN2021PTC14,Ravi Sharma
+L10112TN2023PLC15,KANCHI AUTO ELECTRONICS LTD,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L10112TN2023PLC15,Ravi Sharma
+L11223TN2018PTC01,CHENNAI ELECTRONICS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L11223TN2018PTC01,Anjali Desai
+U22334TN2019PLC02,COIMBATORE TEXTILE EXPORTS LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U22334TN2019PLC02,Amit Singh
+L33445TN2020PTC03,MADURAI FOOD PRODUCTS PRIVATE LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L33445TN2020PTC03,Amit Singh
+U44556TN2021PTC04,TIRUPPUR GARMENTS HUB,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/U44556TN2021PTC04,Priya Kapoor
+L66778TN2024PLC06,HOSUR AUTO SYSTEMS LIMITED,Maharashtra,Active,ZaubaCorp_Sim,Director_Name,https://www.zaubacorp.com/cin/L66778TN2024PLC06,Amit Singh
