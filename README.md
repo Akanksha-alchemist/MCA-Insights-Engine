@@ -1,16 +1,16 @@
-MCA Insights Engine: Comprehensive Solution
+#MCA Insights Engine: Comprehensive Solution
 
 This repository contains the complete implementation of the MCA Insights Engine—an end-to-end Python data application designed to merge, track, and enrich frequently updated corporate data.
 
 The solution fulfills all required steps for data pipeline construction (Tasks A, B, C) and the final Streamlit application layer (Tasks D, E).
 
-I. Solution Overview (Data Pipeline)
+##I. Solution Overview (Data Pipeline)
 
 The project is structured as a series of Python scripts designed to turn simulated raw data into auditable, enriched insights.
 
 Data Preparation Summary (Tasks A, B, C)
 
-Task A/B: Data Processing & Auditing (data_processing.py, change_detector.py)
+###Task A/B: Data Processing & Auditing (data_processing.py, change_detector.py)
 
 What I Did: I created and ran scripts to merge simulated state-wise data, fix data quality issues (like duplicates and nulls), and generate three daily change logs.
 
@@ -24,13 +24,13 @@ Method (The Proxy): I implemented a proxy simulation for web scraping. Instead o
 
 Data Structure: The script used Pandas .melt() to transform the data into the required long auditing format (CIN, FIELD, SOURCE), explicitly 
 
-II. The Final App (Tasks D & E)
+##II. The Final App (Tasks D & E)
 
 The final user interface is built using Streamlit (app.py), integrating all the processed data for user consumption.
 
 Final Application Features
 
-Query Layer (Task D): The dashboard displays the final enriched company data.
+###Query Layer (Task D): The dashboard displays the final enriched company data.
 
 Filters: Includes dynamic Filters by State, Status, and Year.
 
@@ -42,8 +42,8 @@ Chatbot Proxy (Task E2): Implemented with rule-based logic that translates natur
 
 Setup Instructions
 
-Clone this repository.
+##Clone this repository.
 
-Install dependencies: pip install -r requirements.txt
+###Install dependencies: pip install -r requirements.txt
 
-Run the application from the root directory: streamlit run app.py
+###Run the application from the root directory: streamlit run app.py
